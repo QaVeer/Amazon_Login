@@ -47,7 +47,8 @@ Search The products.
 AddToCard products.
 
 
+TestNg.XML:
 
 
-
+<img width="858" alt="Screenshot_788" src="https://github.com/QaVeer/Amazon_Login/assets/149336120/f9c52e24-9023-4104-87de-a79cb5af3e7c">
 
