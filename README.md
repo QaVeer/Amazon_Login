@@ -36,6 +36,15 @@ Screenshot of the current version of the eBay page:
 <img width="902" alt="Screenshot_222" src="https://github.com/QaVeer/Amazon_Login/assets/149336120/6e916daa-d848-4166-85e7-22f4f83518cd">
 
 
+ Project Structure :
+
+ <img width="225" alt="Screenshot_777" src="https://github.com/QaVeer/Amazon_Login/assets/149336120/88acd287-cb02-408d-bc21-a0aeef050f8c">
+
+Following are the test cases covered in the this Project:
+
+Login into application.
+Search The products.
+AddToCard products.
 
 
 
