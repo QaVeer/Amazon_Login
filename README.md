@@ -1,13 +1,25 @@
 AmazonProject
+
+
+
 An implementation of a test scenario covering the testing of the Amazon Login,Search & AddToCard Function, using Page Object Pattern. Testing performed in Firefox,Chrome browser, in Windows 10. Code implemented in Eclipse using Java, Selenium WebDriver and TestNG.
-Prerequisites
+
+
+Prerequisites:
+
+
 To run the project, you will need:
 
 JDK 17 - you can download : https://www.oracle.com/java/technologies/downloads/#java17.
+
 Eclipse - you can download : https://www.eclipse.org/downloads/.
+
 Maven - you can download 'Maven integration for Eclipse' from Eclipse Marketplace.
+
 TestNG - you can download 'TestNG for Eclipse' plug-in from Eclipse Marketplace.
+
 FireFox Driver - version used: 121.0.1 (64-bit). Driver is already added to the project in the src/test/resources/drivers folder.
+
 Maven uses the below dependencies:
 
 Selenium WebDriver - used version 4.6.0.
